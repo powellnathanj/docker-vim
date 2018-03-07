@@ -4,7 +4,6 @@
 
 ```
 docker build -t np-vim .
-
 ```
 
 ### Run
